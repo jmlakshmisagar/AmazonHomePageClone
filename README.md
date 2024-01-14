@@ -1,3 +1,4 @@
+![amazon](https://github.com/jmlakshmisagar/AmazonHomePageClone/assets/152427404/a1e916b4-82e1-4220-a684-9ec1d478d43d)
 Repository Name:
 AmazonHomePageClone
 
